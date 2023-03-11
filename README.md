@@ -1,1 +1,1 @@
-Micro keryboard video devices pix-e5 videorecorder for start ans stop recording.
+Micro keryboard for video devices pix-e5 videorecorder.
